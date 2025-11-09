@@ -1,4 +1,4 @@
-# 🧰 Bash Maintenance Suite (Enhanced)
+# 🧰 Bash Maintenance Suite
 
 A refined collection of Bash scripts for automating everyday system maintenance tasks.
 
